@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Building%20Advanced%20AI%20for%20ROS%20%26%20Embedded%20Systems&text2=Optimized%20from%20Data%20Preprocessing%20to%20Edge%20Deployment&fontSize=23&fontAlignY=38&fontSize2=18&fontAlignY2=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Building%20Advanced%20AI%20for%20ROS%20and%20Embedded%20Systems&text2=Optimized%20from%20Data%20Preprocessing%20to%20Edge%20Deployment&fontSize=22&fontAlignY=38&fontSize2=17&fontAlignY2=62)
 
 # ⚡ Edge AI & Robotics S/W Engineer
 
