@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=%EC%95%88%EB%83%90%ED%95%98%EC%84%B8%EC%9A%94!%20%EB%AA%A8%EB%8D%B8%20%EC%B5%9C%EC%A0%81%ED%99%94%EB%B6%80%ED%84%B0%20%EC%8B%A4%EC%A0%9C%20%EC%A0%81%EC%9A%A9%EA%B9%8C%EC%A7%80&text2=%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94%20AI%20%EA%B3%9C%EB%B0%9C%EC%9E%90,%20%ED%99%A9%EC%9D%80%ED%95%98%EC%9E%85%EB%8B%88%EB%8B%A4!&fontSize=24&fontAlignY=38&fontSize2=22&fontAlignY2=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=%EC%95%88%EB%83%95%ED%95%98%EC%84%B8%EC%9A%94!%20%EB%AA%A8%EB%8D%B8%20%EC%B5%9C%EC%A0%81%ED%99%94%EB%B6%80%ED%84%B0%20%EC%8B%A4%EC%A0%9C%20%EC%A0%81%EC%9A%A9%EA%B9%8C%EC%A7%80&text2=%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94%20AI%20%EA%B0%9C%EB%B0%9C%EC%9E%90,%20%ED%99%A9%EC%9D%80%ED%95%98%EC%9E%85%EB%8B%88%EB%8B%A4!&fontSize=24&fontAlignY=38&fontSize2=22&fontAlignY2=62)
 
 # ⚡ Edge AI & Robotics S/W Engineer
 
