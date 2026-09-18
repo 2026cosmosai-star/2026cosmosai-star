@@ -1,11 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요!,%20모델 최적화부터 실제 적용까지 고민하는 AI 개발자. 황은하입니다!%20a%20Developer!&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%EC%95%88%EB%83%90%ED%95%98%EC%84%B8%EC%9A%94!,%20%EB%AA%A8%EB%8D%B8%20%EC%B5%9C%EC%A0%81%ED%99%94%EB%B6%80%ED%84%B0%20%EC%8B%A4%EC%A0%9C%20%EC%A0%81%EC%9A%A9%EA%B9%8C%EC%A7%80%20%EA%B3%A1%EB%AF%BC%ED%95%98%EB%8A%94%20AI%20%EA%B3%9C%EB%B0%9C%EC%9E%90,%20%ED%99%A9%EC%9D%80%ED%95%98%EC%9E%85%EB%8B%88%EB%8B%A4!&fontSize=30)
 
-# 👋 안녕하세요, AI & Embedded S/W 개발자입니다.
+# ⚡ Edge AI & Robotics S/W Engineer
 
-**🤖 엣지 디바이스 AI 모델 고도화 및 경량화 연구**  
-*"기술의 원리를 깊이 있게 이해하고, 최적화된 온디바이스 AI 및 임베디드 시스템을 구현합니다."*
+> **제한된 컴퓨팅 자원 위에서 최고의 AI 성능과 임베디드 안정성을 이끌어냅니다.**
+
+제어 알고리즘부터 경량 AI 추론까지, 하드웨어와 소프트웨어의 경계를 넘나들며 최적의 온디바이스 솔루션을 설계합니다.
 
 </div>
 
