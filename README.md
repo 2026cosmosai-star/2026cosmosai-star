@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20a%20Developer!&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요!,%20모델 최적화부터 실제 적용까지 고민하는 AI 개발자. 황은하입니다!%20a%20Developer!&fontSize=50)
 
 # 👋 안녕하세요, AI & Embedded S/W 개발자입니다.
 
